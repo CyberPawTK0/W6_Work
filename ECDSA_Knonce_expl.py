@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Battleship CTF - Auto Farmer (standalone)
-Runs 'glitch targets battleship' each round, exploits k-nonce reuse
+W6 Service CTF - Auto Farmer (standalone)
+Runs 'glitch targets [service]' each round, exploits k-nonce reuse
 to recover private keys, steals tokens, and submits flags via 'glitch submit'.
 
 Usage: python3 farmer.py
@@ -22,7 +22,7 @@ TEAMS = {
     "Example1":             "10.100.1.1",
     "Example2":             "10.100.2.1",
     "Example3":             "10.100.3.1",
-    "Example4": 	    "10.100.4.1",
+    "Example4": 	        "10.100.4.1",
     # "ExampleMyTeam":      "10.100.5.1",  # never touch, make sure to replace service IPs
     "Example6":             "10.100.6.1",
     "Example7":             "10.100.7.1",
