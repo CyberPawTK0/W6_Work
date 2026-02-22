@@ -1,5 +1,5 @@
 # W6_Work
-Repo for Global Attack/Defend W6 tourney
+Repo for Global Attack/Defend W6 tourney. Will update completely after current tourney concludes.
 
 
 
